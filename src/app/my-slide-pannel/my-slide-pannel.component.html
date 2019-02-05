@@ -1,0 +1,4 @@
+<div class="parent" [@slide]="activePane">
+  <div><ng-content select="[leftPane]" id="left"></ng-content></div>
+  <div><ng-content select="[rightPane]" id="right"></ng-content></div>
+</div>

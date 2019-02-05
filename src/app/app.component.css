@@ -1,0 +1,8 @@
+[leftPane] { 
+  background-color: tomato;
+  height: 500px
+ }
+[rightPane] { 
+  background-color: bisque;
+  height: 500px;
+ }
